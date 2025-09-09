@@ -1,2 +1,2 @@
-# Python-Internship
-Certificate
+# Python-Certificate
+Internship
